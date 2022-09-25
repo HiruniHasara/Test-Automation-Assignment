@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="502dc471-aebe-415f-a371-cc268dcda2cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/1627419064129.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/1627420583218.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/1631045222283.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/1631045289385.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/1631045342296.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/1631053717364.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/1631054703635.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/actitime/qa/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/actitime/qa/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/ReportsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/ReportsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/TasksPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/TasksPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/UsersPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/UsersPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/actitime/qa/util/TestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/actitime/qa/util/TestUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/HomePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/LogonPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/LogonPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/actitime/qa/base/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/actitime/qa/base/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/actitime/qa/config/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/actitime/qa/extentreportlistener/ExtentReporterNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/actitime/qa/extentreportlistener/ExtentReporterNG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/actitime/qa/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/actitime/qa/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/actitime/qa/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/actitime/qa/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/actitime/qa/pages/ReportsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/actitime/qa/pages/ReportsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/actitime/qa/pages/TasksPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/actitime/qa/pages/TasksPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/actitime/qa/pages/UsersPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/actitime/qa/pages/UsersPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/actitime/qa/testdata/actitimeTestData.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/actitime/qa/util/TestUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/actitime/qa/util/TestUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/actitime/qa/util/WebEventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/actitime/qa/util/WebEventListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/actitime/qa/testcases/HomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/actitime/qa/testcases/HomePageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/actitime/qa/testcases/LogonPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/actitime/qa/testcases/LogonPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Extent.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Extent.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-625874241">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="70" />
+          <entry key="png" value="14" />
+          <entry key="properties" value="6" />
+          <entry key="xml" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="Image" value="14" />
+          <entry key="JAVA" value="70" />
+          <entry key="Properties" value="6" />
+          <entry key="XML" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="19" />
+          <entry key="java" value="1303" />
+          <entry key="properties" value="4" />
+          <entry key="xml" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1303" />
+          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="Properties" value="4" />
+          <entry key="XML" value="31" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/LogonPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="61" column="4" lean-forward="true" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/screenshots/1664114717752.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/UsersPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="43" column="58" lean-forward="true" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/screenshots/1664119232095.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-187">
+              <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/HomePageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="65" column="40" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/TimeTrackPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/ReportsPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="60" column="8" lean-forward="true" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/ReportsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="E:/3rd Year/Middleware Architecture/petstore" value="PREVIEW" />
+        <entry key="E:/3rd Year/Middleware Architecture/video/Assignment/petstore-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/actitime/qa/base/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/actitime/qa/util/TestUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/HoPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/LogonPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/UsersPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/UsersPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/ReportsPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/TasksPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/TasksPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/HomePageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/TimeTrackPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/TimeTrackPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/ReportsPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ActitimeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageObjectModel_Demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActitimeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageObjectModel_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActitimeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageObjectModel_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActitimeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageObjectModel_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActitimeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageObjectModel_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActitimeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageObjectModel_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActitimeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageObjectModel_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActitimeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageObjectModel_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActitimeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageObjectModel_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+              <item name="testdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActitimeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageObjectModel_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActitimeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageObjectModel_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActitimeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageObjectModel_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActitimeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageObjectModel_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActitimeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageObjectModel_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ActitimeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PageObjectModel_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1664136248249" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.actitime.qa.testcases" />
+      <recent name="com.actitime.qa.pages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.E:/4th Year/Advanced Software Quality Assuarance/Assignment/2/Project/PageObjectModel_Demo/src/main/resources/testng.xml">
+    <configuration name="E:/4th Year/Advanced Software Quality Assuarance/Assignment/2/Project/PageObjectModel_Demo/src/main/resources/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ActitimeTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.homePageTimeTrackLinkTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ActitimeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.actitime.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.actitime.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.actitime.qa.testcases.HomePageTest" />
+      <option name="METHOD_NAME" value="homePageTimeTrackLinkTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TasksPageTest.tasksPageLogoTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ActitimeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.actitime.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.actitime.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.actitime.qa.testcases.TasksPageTest" />
+      <option name="METHOD_NAME" value="tasksPageLogoTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeTrackPageTest.approveTimeTrackTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ActitimeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.actitime.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.actitime.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.actitime.qa.testcases.TimeTrackPageTest" />
+      <option name="METHOD_NAME" value="approveTimeTrackTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeTrackPageTest.timeTrackPageTitleTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ActitimeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.actitime.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.actitime.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.actitime.qa.testcases.TimeTrackPageTest" />
+      <option name="METHOD_NAME" value="timeTrackPageTitleTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TasksPageTest.tasksPageLogoTest" />
+      <item itemvalue="TestNG.HomePageTest.homePageTimeTrackLinkTest" />
+      <item itemvalue="TestNG.TimeTrackPageTest.timeTrackPageTitleTest" />
+      <item itemvalue="TestNG.TimeTrackPageTest.approveTimeTrackTest" />
+      <item itemvalue="TestNG.E:/4th Year/Advanced Software Quality Assuarance/Assignment/2/Project/PageObjectModel_Demo/src/main/resources/testng.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.E:/4th Year/Advanced Software Quality Assuarance/Assignment/2/Project/PageObjectModel_Demo/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.TimeTrackPageTest.approveTimeTrackTest" />
+        <item itemvalue="TestNG.TimeTrackPageTest.timeTrackPageTitleTest" />
+        <item itemvalue="TestNG.HomePageTest.homePageTimeTrackLinkTest" />
+        <item itemvalue="TestNG.TasksPageTest.tasksPageLogoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="502dc471-aebe-415f-a371-cc268dcda2cd" name="Default Changelist" comment="" />
+      <created>1663731190547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663731190547</updated>
+      <workItem from="1663731198344" duration="5578000" />
+      <workItem from="1663755841508" duration="16608000" />
+      <workItem from="1664084460025" duration="8467000" />
+      <workItem from="1664098690285" duration="28311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TimeTrackPageTest_timeTrackPageTitleTest - 2022.09.25 at 22h 08m 47s.xml">
+      <configuration name="TimeTrackPageTest.timeTrackPageTitleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TimeTrackPageTest_approveTimeTrackTest - 2022.09.25 at 22h 36m 59s.xml">
+      <configuration name="TimeTrackPageTest.approveTimeTrackTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TimeTrackPageTest_approveTimeTrackTest - 2022.09.25 at 22h 39m 49s.xml">
+      <configuration name="TimeTrackPageTest.approveTimeTrackTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TimeTrackPageTest_approveTimeTrackTest - 2022.09.25 at 22h 45m 13s.xml">
+      <configuration name="TimeTrackPageTest.approveTimeTrackTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TimeTrackPageTest_approveTimeTrackTest - 2022.09.25 at 22h 49m 21s.xml">
+      <configuration name="TimeTrackPageTest.approveTimeTrackTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TimeTrackPageTest_approveTimeTrackTest - 2022.09.25 at 22h 54m 34s.xml">
+      <configuration name="TimeTrackPageTest.approveTimeTrackTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TimeTrackPageTest_approveTimeTrackTest - 2022.09.25 at 22h 58m 54s.xml">
+      <configuration name="TimeTrackPageTest.approveTimeTrackTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TimeTrackPageTest_approveTimeTrackTest - 2022.09.25 at 23h 05m 27s.xml">
+      <configuration name="TimeTrackPageTest.approveTimeTrackTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__4th_Year_Advanced_Software_Quality_Assuarance_Assignment_2_Project_PageObjectModel_Demo_src_main_resources_testng_xml - 2022.09.25 at 23h 16m 31s.xml">
+      <configuration name="E:/4th Year/Advanced Software Quality Assuarance/Assignment/2/Project/PageObjectModel_Demo/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__4th_Year_Advanced_Software_Quality_Assuarance_Assignment_2_Project_PageObjectModel_Demo_src_main_resources_testng_xml - 2022.09.25 at 23h 30m 22s.xml">
+      <configuration name="E:/4th Year/Advanced Software Quality Assuarance/Assignment/2/Project/PageObjectModel_Demo/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="58964000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ActitimeTest.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/actitime/qa/extentreportlistener/ExtentReporterNG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/1627419064129.png" />
+    <entry file="file://$PROJECT_DIR$/screenshots/1631054703635.png" />
+    <entry file="file://$PROJECT_DIR$/screenshots/1631053717364.png" />
+    <entry file="file://$PROJECT_DIR$/screenshots/1631045342296.png" />
+    <entry file="file://$PROJECT_DIR$/screenshots/1663766033560.png" />
+    <entry file="file://$PROJECT_DIR$/test-output/Extent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/actitime/qa/util/WebEventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-230">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/TasksPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/UsersPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/actitime/qa/config/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="70" lean-forward="true" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/TasksPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="42" column="28" lean-forward="true" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="733">
+          <caret line="67" column="9" lean-forward="true" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/TimeTrackPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/actitime/qa/util/TestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/1664119182227.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/1664114717752.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/1664123653193.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/1664119232095.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/LogonPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="61" column="4" lean-forward="true" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="65" column="40" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/ReportsPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="60" column="8" lean-forward="true" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/actitime/qa/pages/ReportsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/TimeTrackPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/actitime/qa/base/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="42" column="41" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/actitime/qa/testcases/UsersPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="43" column="58" lean-forward="true" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
